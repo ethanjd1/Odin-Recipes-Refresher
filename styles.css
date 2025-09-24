@@ -1,8 +1,8 @@
 .content-body {
   font-family: "Times New Roman", Verdanan, sans-seriff;
-  font-size: 25px;
+  font-size: 20px;
   color: rgb(48, 47, 47);
-  margin-left: auto;
-  margin-top: auto;
+  margin-left: 0 auto;
+  margin-top: 0 auto;
   box-sizing: border-box;
 }
