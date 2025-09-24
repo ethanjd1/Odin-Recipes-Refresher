@@ -1,5 +1,8 @@
 .content-body {
   font-family: "Times New Roman", Verdanan, sans-seriff;
   font-size: 25px;
-  color: #a70b00;
+  color: rgb(48, 47, 47);
+  margin-left: auto;
+  margin-top: auto;
+  box-sizing: border-box;
 }
